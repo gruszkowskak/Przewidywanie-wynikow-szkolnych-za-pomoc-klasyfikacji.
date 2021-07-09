@@ -9,4 +9,4 @@ Repozytorium zawiera poszczególne kamienie milowe, jak i końcowy raport z prze
 
 * KM2 -- inżynieria cech, wstępne modelowanie
 
-* KM3 -- finalne modeleKM3 -- finalne modele
+* KM3 -- finalne modele
