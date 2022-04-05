@@ -1,4 +1,4 @@
-# Przewidywanie-wynikow-szkolnych-za-pomoc-klasyfikacji
+# Przewidywanie wyników szkolnych za pomoc klasyfikacji
 
 Repozytorium zawiera poszczególne kamienie milowe, jak i końcowy raport z przewidywania wyników szkolnych za pomocą klasyfikacji.
 
